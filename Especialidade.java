@@ -1,0 +1,4 @@
+
+public enum Especialidade {
+	CARDIOLOGIA, PEDIATRIA, ORTOPEDIA, DERMATOLOGIA, CLINICA_GERAL;
+}
